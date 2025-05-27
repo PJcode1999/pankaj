@@ -1,9 +1,9 @@
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mcmtan/">
-    <img src="https://img.shields.io/badge/mcmtan-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/pankaj-shinde-python">
+    <img src="https://img.shields.io/badge/pankaj_shinde_python-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:markcmtan@gmail.com">
-    <img src="https://img.shields.io/badge/markcmtan%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  <a href="mailto:shindepankaj562@gmail.com">
+    <img src="https://img.shields.io/badge/shindepankaj562%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
 
@@ -30,4 +30,5 @@
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJcode1999&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PJcode1999&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJcode1999&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJcode1999&theme=gotham)
